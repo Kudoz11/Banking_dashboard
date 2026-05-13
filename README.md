@@ -15,7 +15,22 @@ This project involves the creation of a comprehensive Banking Dashboard designed
 * **Rating & Satisfaction:** Average customer feedback scores across different service sectors.
 
 ### Dashboard Preview
-![Banking Dashboard Screenshot](INSERT_IMAGE_LINK_HERE)
+<details>
+<summary>📸 Click here to view all Dashboard Screenshots</summary>
+
+### 1. Main Dashboard
+![Main View](Screenshot%202025-07-14%20143317%20-%20Copy.png)
+
+### 2. Sales Analysis
+![Sales](Screenshot%202025-07-14%20143803.png)
+
+### 3. Regional View
+![Regional](Screenshot%202025-07-14%20144329.png)
+
+### 4. Final Summary
+![Summary](Screenshot%202025-07-31%20135025.png)
+
+</details>
 
 ### How to View
 Since this is a `.pbip` (Power BI Project) file, you can download the repository and open the file using **Power BI Desktop**. For a quick view, please refer to the screenshot above.
