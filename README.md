@@ -22,6 +22,16 @@ This project focuses on transforming raw banking data into actionable insights. 
 3. **Customer Profiling:** Segmented customers by job type to target high-value loan products.
 
 ---
+## 📸 Dashboard Highlights
+
+### 1. Main Operations Overview
+![Main Dashboard View](Main_Dashboard_View.png)
+
+### 2. Loan & Sales Analysis
+![Sales Analysis](Sales_Analysis.png)
+
+### 3. Deep Dive Insights
+![Loan Analysis](Loan_analysis.png)
 
 ## 📸 Dashboard Highlights
 *(Already added in your repo)*
